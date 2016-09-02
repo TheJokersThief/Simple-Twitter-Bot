@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+*.json*
+!settings.example.json
+bash-wrapper.sh
+*.db

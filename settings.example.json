@@ -1,0 +1,24 @@
+{
+	"reddit":{
+		"urls": [
+			"https://www.reddit.com/r/InternetIsBeautiful/top.json?sort=top&t=day",
+			"https://www.reddit.com/r/dataisbeautiful/top.json?sort=top&t=day"
+		]
+	},
+	"rss": {
+		"urls": [
+			"http://nautil.us/rss/all","http://www.wired.com/feed/"
+		]
+	},
+	"hacker_news": {
+		"apiurl": "https://hacker-news.firebaseio.com/v0/",
+		"topstoriesurl": "https://hacker-news.firebaseio.com/v0/topstories.json",
+		"comment": "https://news.ycombinator.com/item?id="
+	},
+	"twitter": {
+		"twitter_consumer_key": "KEY",
+		"twitter_consumer_secret": "KEY",
+		"twitter_access_token_key": "KEY",
+		"twitter_access_token_secret": "KEY"
+	}
+}
