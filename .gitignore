@@ -92,3 +92,5 @@ ENV/
 !settings.example.json
 bash-wrapper.sh
 *.db
+
+.DS_Store
